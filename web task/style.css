@@ -1,0 +1,42 @@
+header{
+    padding: 20px;
+    padding-bottom: 5px;
+    background-color: #ffffce;
+    text-align: center;
+    color: #573b3b;
+    font-weight: 400;
+}
+section nav{
+    display: flex;
+}
+section nav p{
+    padding-top: 7px;
+    padding-left: 75px;
+    justify-content: center;
+}
+section p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.birds img{
+    height: 200px;
+}
+.duty img{
+    height: 200px;
+}
+a{
+    text-decoration:none;
+}
+a:hover{
+    text-decoration: underline;
+}
+body{
+    margin: 0 auto;
+    width: 45vw;
+}
+footer{
+    color: #999999;
+    background-color: #ffffce;
+    padding-top: 4px;
+    text-align: center;
+    padding-bottom: 24px;
+}
